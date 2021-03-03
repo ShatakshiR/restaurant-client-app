@@ -1,0 +1,11 @@
+D:\Shatakshi\Professional\RUST\RestaurantManagement\restaurant-client-app\target\debug\deps\serde_bytes-f37f400076df11b5.rmeta: C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\lib.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\bytes.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\de.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\ser.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\bytebuf.rs
+
+D:\Shatakshi\Professional\RUST\RestaurantManagement\restaurant-client-app\target\debug\deps\libserde_bytes-f37f400076df11b5.rlib: C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\lib.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\bytes.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\de.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\ser.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\bytebuf.rs
+
+D:\Shatakshi\Professional\RUST\RestaurantManagement\restaurant-client-app\target\debug\deps\serde_bytes-f37f400076df11b5.d: C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\lib.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\bytes.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\de.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\ser.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\bytebuf.rs
+
+C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\lib.rs:
+C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\bytes.rs:
+C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\de.rs:
+C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\ser.rs:
+C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_bytes-0.11.5\src\bytebuf.rs:

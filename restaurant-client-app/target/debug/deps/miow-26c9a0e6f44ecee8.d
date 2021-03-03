@@ -1,0 +1,12 @@
+D:\Shatakshi\Professional\RUST\RestaurantManagement\restaurant-client-app\target\debug\deps\miow-26c9a0e6f44ecee8.rmeta: C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\lib.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\handle.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\overlapped.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\iocp.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\net.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\pipe.rs
+
+D:\Shatakshi\Professional\RUST\RestaurantManagement\restaurant-client-app\target\debug\deps\libmiow-26c9a0e6f44ecee8.rlib: C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\lib.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\handle.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\overlapped.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\iocp.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\net.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\pipe.rs
+
+D:\Shatakshi\Professional\RUST\RestaurantManagement\restaurant-client-app\target\debug\deps\miow-26c9a0e6f44ecee8.d: C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\lib.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\handle.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\overlapped.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\iocp.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\net.rs C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\pipe.rs
+
+C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\lib.rs:
+C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\handle.rs:
+C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\overlapped.rs:
+C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\iocp.rs:
+C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\net.rs:
+C:\Users\Shubhanki\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\pipe.rs:
